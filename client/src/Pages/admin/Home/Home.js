@@ -285,7 +285,7 @@ const Home = () => {
                         >
                             Sign In With Google
                         </ActionButton>
-                        <ActionButton
+                        {/* <ActionButton
                             variant="contained"
                             startIcon={
                                 <img
@@ -298,7 +298,7 @@ const Home = () => {
                             sx={{ backgroundColor: '#fff', color: '#333', border: '1px solid #ccc', '&:hover': { backgroundColor: '#f5f5f5' } }}
                         >
                             Sign In With Microsoft
-                        </ActionButton>
+                        </ActionButton> */}
                         <Divider sx={{ my: 2 }}>OR</Divider>
                         <ActionButton
                             variant="contained"
