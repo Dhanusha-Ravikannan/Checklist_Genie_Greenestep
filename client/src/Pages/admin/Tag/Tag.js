@@ -151,6 +151,8 @@ const Tag = () => {
     "TESTING",
     "HUMAN_RESOURCE",
     "PUBLIC",
+    "CUSTOMER SUCCESS"
+
   ];
 
   const frequencyOptions = ["None", "Daily", "Weekly", "Monthly", "Yearly", "Other"]; // Enum values
