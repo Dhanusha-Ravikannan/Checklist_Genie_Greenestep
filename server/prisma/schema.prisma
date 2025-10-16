@@ -15,6 +15,7 @@ enum userPosition {
   TESTING
   SALESFORCE
   PUBLIC
+  CUSTOMER_SUCCESS
 }
 
 enum frequency {
