@@ -151,7 +151,7 @@ const Tag = () => {
     "TESTING",
     "HUMAN_RESOURCE",
     "PUBLIC",
-    "CUSTOMER SUCCESS"
+    "CUSTOMER_SUCCESS"
 
   ];
 
