@@ -133,6 +133,7 @@ const Profile = () => {
     "TESTING",
     "SALESFORCE",
     "PUBLIC",
+    "CUSTOMER_SUCCESS"
   ].filter((pos) => !positions.some(p => p.user_position === pos));
 
   const formatPositionName = (position) => {
